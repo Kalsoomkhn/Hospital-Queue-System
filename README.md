@@ -1,6 +1,4 @@
-# Hospital-Queue-System
- 
-# Hospital Queue Management System
+# Hospital-Queue-Management-System
 
 ## Overview
 
